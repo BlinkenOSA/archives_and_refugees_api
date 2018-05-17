@@ -1,0 +1,6 @@
+.idea/
+archives_and_refugees_api/local_settings.py
+records/management/commands/populate.py
+records/management/commands/OSA - RefugeeVideos-0f7505da22e7.json
+db.sqlite3
+*.pyc

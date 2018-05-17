@@ -1,0 +1,1214 @@
+[
+{
+  "model": "records.filmlibraryrecord",
+  "pk": 713,
+  "fields": {
+    "trailer_url": "",
+    "title": "Colorist in Wartime",
+    "abstract": "An Iraqi painter and colorist who has been living in exile for 30 years in Rome, provides this portrait",
+    "temporal_coverage_start": 1976,
+    "temporal_coverage_end": 2006,
+    "catalog_url": "http://catalog.osaarchivum.org/catalog/0X5byPYx",
+    "notes": "Verzio Film Festival Submission",
+    "countries": [
+      205
+    ],
+    "directors": [
+      379
+    ],
+    "keywords": [
+      48,
+      49
+    ]
+  }
+},
+{
+  "model": "records.filmlibraryrecord",
+  "pk": 714,
+  "fields": {
+    "trailer_url": "https://www.youtube.com/watch?v=30JqnWtLvlU&t=18s",
+    "title": "A Syrian Love Story",
+    "abstract": "Two political prisoners in pre-Arab Spring Syria end up falling in love and are forced from their home later, because of political shifts and a country lingering on the brink of civil war",
+    "temporal_coverage_start": 2009,
+    "temporal_coverage_end": 2015,
+    "catalog_url": "http://catalog.osaarchivum.org/catalog/BX9bBVYk",
+    "notes": "",
+    "countries": [
+      206
+    ],
+    "directors": [
+      380
+    ],
+    "keywords": [
+      49,
+      50
+    ]
+  }
+},
+{
+  "model": "records.filmlibraryrecord",
+  "pk": 715,
+  "fields": {
+    "trailer_url": "https://www.youtube.com/watch?v=vSnHaSLpLB8",
+    "title": "Rukan",
+    "abstract": "Comparing the image ISIS publicly portrays through propaganda with interviews of refugees, the filmmaker uses those stories to paint a bleak picture of life under their rule",
+    "temporal_coverage_start": 2015,
+    "temporal_coverage_end": null,
+    "catalog_url": "http://catalog.osaarchivum.org/catalog/0Yqp7PXd",
+    "notes": "",
+    "countries": [
+      205
+    ],
+    "directors": [
+      381
+    ],
+    "keywords": [
+      51,
+      52
+    ]
+  }
+},
+{
+  "model": "records.filmlibraryrecord",
+  "pk": 716,
+  "fields": {
+    "trailer_url": "https://www.youtube.com/watch?v=aV2W9gzXR5c",
+    "title": "Lucio",
+    "abstract": "One man, in the 1970's, was able to take tens of millions of dollars from a bank using fake checks, all to help those who were suffering, including refugees",
+    "temporal_coverage_start": 1960,
+    "temporal_coverage_end": 2007,
+    "catalog_url": "http://catalog.osaarchivum.org/catalog/BY1mbVY4",
+    "notes": "Verzio Film Submission",
+    "countries": [
+      207,
+      208,
+      209,
+      210,
+      211
+    ],
+    "directors": [
+      382
+    ],
+    "keywords": [
+      48,
+      49
+    ]
+  }
+},
+{
+  "model": "records.filmlibraryrecord",
+  "pk": 717,
+  "fields": {
+    "trailer_url": "https://www.youtube.com/watch?v=p9CdBjg2OIk",
+    "title": "The Suffering Grasses",
+    "abstract": "After the Arab Spring, Syria fell deep into a civil war that still rages on today, the refugees in the film are just a few of the millions who have suffered because of this conflict",
+    "temporal_coverage_start": 2011,
+    "temporal_coverage_end": 2012,
+    "catalog_url": "http://catalog.osaarchivum.org/catalog/BX9862ok",
+    "notes": "Verzio Film Festival Submission",
+    "countries": [
+      206
+    ],
+    "directors": [
+      383
+    ],
+    "keywords": [
+      48,
+      53
+    ]
+  }
+},
+{
+  "model": "records.filmlibraryrecord",
+  "pk": 718,
+  "fields": {
+    "trailer_url": "https://www.youtube.com/watch?v=yIDWTyuihik",
+    "title": "Returning Home: Revival of a Bosnian Village",
+    "abstract": "Internally displaced Bosniak and Croat refugees come to respect each other because of their commonality of being internally displaced even though some occupy other's houses",
+    "temporal_coverage_start": 1991,
+    "temporal_coverage_end": 2001,
+    "catalog_url": "http://catalog.osaarchivum.org/catalog/0X52gEYx",
+    "notes": "",
+    "countries": [
+      212,
+      213
+    ],
+    "directors": [
+      384
+    ],
+    "keywords": [
+      53
+    ]
+  }
+},
+{
+  "model": "records.filmlibraryrecord",
+  "pk": 719,
+  "fields": {
+    "trailer_url": "",
+    "title": "Theatre & War",
+    "abstract": "Internally displaced refugees seeking refuge in a Beirut theatre, get a deep appreciation of the power of the arts",
+    "temporal_coverage_start": 2006,
+    "temporal_coverage_end": null,
+    "catalog_url": "http://catalog.osaarchivum.org/catalog/KXMawbX7",
+    "notes": "Verzio Film Festival Submission",
+    "countries": [
+      214
+    ],
+    "directors": [
+      385
+    ],
+    "keywords": [
+      53
+    ]
+  }
+},
+{
+  "model": "records.filmlibraryrecord",
+  "pk": 720,
+  "fields": {
+    "trailer_url": "https://www.youtube.com/watch?v=s9lvumrzkgw",
+    "title": "The Invisible Man",
+    "abstract": "Illegal refugee immigrants who were persecuted for the sexual orientation by their families and the government have to face the sad reality of having to leave their homeland for safety in other countries",
+    "temporal_coverage_start": 2000,
+    "temporal_coverage_end": 2012,
+    "catalog_url": "http://catalog.osaarchivum.org/catalog/pXANkOYG",
+    "notes": "Verzio Film Festival Submission",
+    "countries": [
+      215
+    ],
+    "directors": [
+      386
+    ],
+    "keywords": [
+      49,
+      54,
+      55
+    ]
+  }
+},
+{
+  "model": "records.filmlibraryrecord",
+  "pk": 721,
+  "fields": {
+    "trailer_url": "",
+    "title": "Peace Effort in Vukovar",
+    "abstract": "Refugees who wish to return back to their rightful home after the war in Former Yugoslavia find their homes occupied by those they once fought with",
+    "temporal_coverage_start": 1993,
+    "temporal_coverage_end": 2000,
+    "catalog_url": "http://catalog.osaarchivum.org/catalog/PYJlL7oD",
+    "notes": "Soros Documentary Fund",
+    "countries": [
+      213
+    ],
+    "directors": [
+      387
+    ],
+    "keywords": [
+      49,
+      53
+    ]
+  }
+},
+{
+  "model": "records.filmlibraryrecord",
+  "pk": 722,
+  "fields": {
+    "trailer_url": "",
+    "title": "Croatia E(n)d-en on Earth",
+    "abstract": "300 asylum-seeking refugees in Croatia struggle to get recognition, two years after the country signed an asylum law into power",
+    "temporal_coverage_start": 2004,
+    "temporal_coverage_end": 2006,
+    "catalog_url": "http://catalog.osaarchivum.org/catalog/0X524rYx",
+    "notes": "",
+    "countries": [
+      213
+    ],
+    "directors": [
+      388
+    ],
+    "keywords": [
+      49,
+      55
+    ]
+  }
+},
+{
+  "model": "records.filmlibraryrecord",
+  "pk": 723,
+  "fields": {
+    "trailer_url": "https://www.youtube.com/watch?v=j0clSt6MvZM",
+    "title": "Libya: The Migrant Trap",
+    "abstract": "In the violent political vacuum of post-Ghaddafi Libya, refugees from all over the world face major human rights violations in refugee camps and on their journeys there",
+    "temporal_coverage_start": 2013,
+    "temporal_coverage_end": 2014,
+    "catalog_url": "http://catalog.osaarchivum.org/catalog/kojKGnXO",
+    "notes": "",
+    "countries": [
+      216,
+      217,
+      218,
+      219,
+      220,
+      221,
+      222,
+      223
+    ],
+    "directors": [
+      389
+    ],
+    "keywords": [
+      51
+    ]
+  }
+},
+{
+  "model": "records.filmlibraryrecord",
+  "pk": 724,
+  "fields": {
+    "trailer_url": "",
+    "title": "Hopeless in Sweden",
+    "abstract": "Over 300 ethnically Hungarian migrants, mostly from Roma background, who want to seek asylum in Sweden",
+    "temporal_coverage_start": 2006,
+    "temporal_coverage_end": null,
+    "catalog_url": "http://catalog.osaarchivum.org/catalog/yovKmNX7",
+    "notes": "Verzio Film Festival Submission",
+    "countries": [
+      224
+    ],
+    "directors": [
+      390
+    ],
+    "keywords": [
+      48,
+      49,
+      55
+    ]
+  }
+},
+{
+  "model": "records.filmlibraryrecord",
+  "pk": 725,
+  "fields": {
+    "trailer_url": "",
+    "title": "Africa 11",
+    "abstract": "Asylum seeking refugees who seek integration in Austria through participating and pursuing a future within the game of soccer",
+    "temporal_coverage_start": 2001,
+    "temporal_coverage_end": 2008,
+    "catalog_url": "http://catalog.osaarchivum.org/catalog/doy24PXk",
+    "notes": "Verzio Film Festival Submission",
+    "countries": [
+      217
+    ],
+    "directors": [
+      391
+    ],
+    "keywords": [
+      49,
+      55
+    ]
+  }
+},
+{
+  "model": "records.filmlibraryrecord",
+  "pk": 726,
+  "fields": {
+    "trailer_url": "https://www.youtube.com/watch?v=R3M2kDRndK8",
+    "title": "Island 36",
+    "abstract": "Refugees  in a German refugee camp focusing on advocating asylum law in order to receive better rights for refugees and migrants",
+    "temporal_coverage_start": 2014,
+    "temporal_coverage_end": null,
+    "catalog_url": "http://catalog.osaarchivum.org/catalog/xY69pLXJ",
+    "notes": "Verzio Film Festival Submission",
+    "countries": [
+      218,
+      225,
+      226,
+      227,
+      228,
+      229
+    ],
+    "directors": [
+      392
+    ],
+    "keywords": [
+      51,
+      55
+    ]
+  }
+},
+{
+  "model": "records.filmlibraryrecord",
+  "pk": 727,
+  "fields": {
+    "trailer_url": "",
+    "title": "Waiting...",
+    "abstract": "Illegal refugees in France, who face violence and difficulties from immigration officials, are seeking to someday reach England to work and gain asylum",
+    "temporal_coverage_start": 2011,
+    "temporal_coverage_end": null,
+    "catalog_url": "http://catalog.osaarchivum.org/catalog/7XONv3o4",
+    "notes": "Verzio Film Festival Submission",
+    "countries": [
+      228,
+      230
+    ],
+    "directors": [
+      393
+    ],
+    "keywords": [
+      49,
+      55
+    ]
+  }
+},
+{
+  "model": "records.filmlibraryrecord",
+  "pk": 728,
+  "fields": {
+    "trailer_url": "",
+    "title": "Homeless Kids",
+    "abstract": "The narratives of children refugees who hope to someday go out beyond the walls of the refugee camp they're living in within Belgium",
+    "temporal_coverage_start": 2007,
+    "temporal_coverage_end": null,
+    "catalog_url": "http://catalog.osaarchivum.org/catalog/yovKENX7",
+    "notes": "Verzio Film Festival Submission",
+    "countries": [
+      212,
+      231,
+      232,
+      233,
+      234,
+      235
+    ],
+    "directors": [
+      394
+    ],
+    "keywords": [
+      49,
+      51
+    ]
+  }
+},
+{
+  "model": "records.filmlibraryrecord",
+  "pk": 729,
+  "fields": {
+    "trailer_url": "",
+    "title": "Playground",
+    "abstract": "Asylum-seeking refugee who is waiting to hear about his asylum status. Over the course of two years, he discusses his daily life, challenges, and fears are while living in France",
+    "temporal_coverage_start": 2011,
+    "temporal_coverage_end": 2013,
+    "catalog_url": "http://catalog.osaarchivum.org/catalog/loVx5vY8",
+    "notes": "Verzio Film Festival Submission",
+    "countries": [
+      228
+    ],
+    "directors": [
+      395
+    ],
+    "keywords": [
+      49,
+      55
+    ]
+  }
+},
+{
+  "model": "records.filmlibraryrecord",
+  "pk": 730,
+  "fields": {
+    "trailer_url": "",
+    "title": "The Arrivals",
+    "abstract": "Discusses the struggles, fears, and constant waiting that refugee families go through during the asylum process in France, while also dealing with very overwhelmed and understaffed asylum offices",
+    "temporal_coverage_start": 2008,
+    "temporal_coverage_end": null,
+    "catalog_url": "http://catalog.osaarchivum.org/catalog/Ge4xgPeL",
+    "notes": "Verzio Film Festival Submission",
+    "countries": [
+      216,
+      226,
+      228,
+      231,
+      232,
+      234,
+      236,
+      237,
+      238
+    ],
+    "directors": [
+      396
+    ],
+    "keywords": [
+      49,
+      55
+    ]
+  }
+},
+{
+  "model": "records.filmlibraryrecord",
+  "pk": 731,
+  "fields": {
+    "trailer_url": "",
+    "title": "Farid: In Zurich or Somewhere",
+    "abstract": "Rejected asylum-seeking refugees who face the ultimate fear and worry of a future deportation either back to their country of origin or a safe third country",
+    "temporal_coverage_start": 2012,
+    "temporal_coverage_end": null,
+    "catalog_url": "http://catalog.osaarchivum.org/catalog/aYapLxXJ",
+    "notes": "Verzio Film Festival Submission",
+    "countries": [
+      239
+    ],
+    "directors": [
+      397
+    ],
+    "keywords": [
+      49,
+      55
+    ]
+  }
+},
+{
+  "model": "records.filmlibraryrecord",
+  "pk": 732,
+  "fields": {
+    "trailer_url": "https://www.youtube.com/watch?v=c8QtZar9EAA",
+    "title": "The Fortress",
+    "abstract": "A Swiss transit camp hosts over 200 asylum-seeking people who struggle with the inconsistent nature of the asylum application process by those running the camp",
+    "temporal_coverage_start": 2007,
+    "temporal_coverage_end": 2008,
+    "catalog_url": "http://catalog.osaarchivum.org/catalog/JXd0EJXk",
+    "notes": "Verzio Film Festival Submission",
+    "countries": [
+      205,
+      206,
+      212,
+      216,
+      217,
+      226,
+      231,
+      232,
+      235,
+      240,
+      241,
+      242,
+      243,
+      244,
+      245,
+      246,
+      247,
+      248
+    ],
+    "directors": [
+      398
+    ],
+    "keywords": [
+      49,
+      51,
+      55
+    ]
+  }
+},
+{
+  "model": "records.filmlibraryrecord",
+  "pk": 733,
+  "fields": {
+    "trailer_url": "",
+    "title": "Life in Paradise: Illegals in the Neighborhood",
+    "abstract": "In a remote European village, officials build a housing complex for rejected asylum-seekers and illegal immigrants, turning the small village into a microcosm of the broader world",
+    "temporal_coverage_start": 2006,
+    "temporal_coverage_end": 2012,
+    "catalog_url": "http://catalog.osaarchivum.org/catalog/yovKr2X7",
+    "notes": "Verzio Film Festival Submission",
+    "countries": [
+      206,
+      217
+    ],
+    "directors": [
+      399
+    ],
+    "keywords": [
+      49,
+      51,
+      55
+    ]
+  }
+},
+{
+  "model": "records.filmlibraryrecord",
+  "pk": 734,
+  "fields": {
+    "trailer_url": "",
+    "title": "No Way Back",
+    "abstract": "Being an unaccompanied minor on a refugee trail is hard enough, it gets even worse when these children get stuck at sea for days trying to get to Australia",
+    "temporal_coverage_start": 2011,
+    "temporal_coverage_end": 2012,
+    "catalog_url": "http://catalog.osaarchivum.org/catalog/loVxvnY8",
+    "notes": "Verzio Film Festival Submission",
+    "countries": [
+      226
+    ],
+    "directors": [
+      400
+    ],
+    "keywords": [
+      49,
+      55
+    ]
+  }
+},
+{
+  "model": "records.filmlibraryrecord",
+  "pk": 735,
+  "fields": {
+    "trailer_url": "",
+    "title": "Mimoune",
+    "abstract": "Shows the hardship of family division as an illegal refugee and the fight to reunify by one family",
+    "temporal_coverage_start": 2006,
+    "temporal_coverage_end": null,
+    "catalog_url": "http://catalog.osaarchivum.org/catalog/WokQmDYr",
+    "notes": "Verzio Film Festival Submission",
+    "countries": [
+      249
+    ],
+    "directors": [
+      401
+    ],
+    "keywords": [
+      49,
+      56
+    ]
+  }
+},
+{
+  "model": "records.filmlibraryrecord",
+  "pk": 736,
+  "fields": {
+    "trailer_url": "",
+    "title": "Reaching Albion",
+    "abstract": "This short documentary features interviews with refugees stuck in Calais, France try to reach the United Kingdom",
+    "temporal_coverage_start": 2009,
+    "temporal_coverage_end": null,
+    "catalog_url": "http://catalog.osaarchivum.org/catalog/doy7L2Yk",
+    "notes": "Verzio Film Festival Submission",
+    "countries": [
+      215,
+      221,
+      223,
+      228
+    ],
+    "directors": [
+      402
+    ],
+    "keywords": [
+      49,
+      51
+    ]
+  }
+},
+{
+  "model": "records.filmlibraryrecord",
+  "pk": 737,
+  "fields": {
+    "trailer_url": "",
+    "title": "Wanakam",
+    "abstract": "Asylum-seeking Tamil refugees who are facing the rigorous asylum process within Switzerland struggle to get granted asylum and to get through the process",
+    "temporal_coverage_start": 2004,
+    "temporal_coverage_end": null,
+    "catalog_url": "http://catalog.osaarchivum.org/catalog/lePNRNXy",
+    "notes": "Verzio Film Festival Submission",
+    "countries": [
+      237
+    ],
+    "directors": [
+      403
+    ],
+    "keywords": [
+      49,
+      55
+    ]
+  }
+},
+{
+  "model": "records.filmlibraryrecord",
+  "pk": 738,
+  "fields": {
+    "trailer_url": "https://www.youtube.com/watch?v=IX5Tjy0PXTs",
+    "title": "Special Flight",
+    "abstract": "Rejected asylum seekers who are forcibly being removed from Switzerland on \"Special Flights\" which are known to be dehumanizing ways of exiting refugees back to their country of origin",
+    "temporal_coverage_start": 2010,
+    "temporal_coverage_end": 2011,
+    "catalog_url": "http://catalog.osaarchivum.org/catalog/JXdWNJok",
+    "notes": "Verzio Film Festival Submission",
+    "countries": [
+      212,
+      217,
+      232,
+      235
+    ],
+    "directors": [
+      398
+    ],
+    "keywords": [
+      51,
+      55
+    ]
+  }
+},
+{
+  "model": "records.filmlibraryrecord",
+  "pk": 739,
+  "fields": {
+    "trailer_url": "",
+    "title": "Nowhere in Europe: Escaping Chechnya for Europe",
+    "abstract": "Refugees and Asylum-seekers escaping the violence in Chechnya to head towards Western Europe face many unique difficulties that are portrayed in the film",
+    "temporal_coverage_start": 2008,
+    "temporal_coverage_end": 2009,
+    "catalog_url": "http://catalog.osaarchivum.org/catalog/JXKN2voG",
+    "notes": "Verzio Film Festival Submission",
+    "countries": [
+      231
+    ],
+    "directors": [
+      404
+    ],
+    "keywords": [
+      49,
+      51,
+      55,
+      56
+    ]
+  }
+},
+{
+  "model": "records.filmlibraryrecord",
+  "pk": 740,
+  "fields": {
+    "trailer_url": "",
+    "title": "Fortress Europe",
+    "abstract": "Asylum-seeking refugees from: Chechnya, Russia, Bulgaria, Moldova, Kazakhstan, Iran, Philippines, China and Iraq who are looking for a better life in Europe",
+    "temporal_coverage_start": 2001,
+    "temporal_coverage_end": 2001,
+    "catalog_url": "http://catalog.osaarchivum.org/catalog/BXnK9JY2",
+    "notes": "",
+    "countries": [
+      205,
+      226,
+      231,
+      245,
+      250,
+      251,
+      252,
+      253
+    ],
+    "directors": [
+      405
+    ],
+    "keywords": [
+      48,
+      49,
+      55
+    ]
+  }
+},
+{
+  "model": "records.filmlibraryrecord",
+  "pk": 741,
+  "fields": {
+    "trailer_url": "https://www.youtube.com/watch?v=q_5HeoGs6Vk",
+    "title": "Vakha and Magomed",
+    "abstract": "Two Chechen refugees, who have sought asylum in Warsaw, Poland, have developed a good relationship, which the film focuses on rather than focusing on their past",
+    "temporal_coverage_start": 2010,
+    "temporal_coverage_end": null,
+    "catalog_url": "http://catalog.osaarchivum.org/catalog/0YqK5nod",
+    "notes": "Copyright by Lodz Film School",
+    "countries": [
+      231
+    ],
+    "directors": [
+      406
+    ],
+    "keywords": [
+      49,
+      51
+    ]
+  }
+},
+{
+  "model": "records.filmlibraryrecord",
+  "pk": 742,
+  "fields": {
+    "trailer_url": "https://www.youtube.com/watch?v=pETkyMdL2aE",
+    "title": "Can't be Silent: On Tour with the Refugees",
+    "abstract": "Asylum-seeking refugees, also originating from The Gambia, Somalia, and Iran, who look to music and performance to freely express themselves when a majority of their liberties- particularly the freedom to move around freely throughout Germany, are restricted",
+    "temporal_coverage_start": 2012,
+    "temporal_coverage_end": null,
+    "catalog_url": "http://catalog.osaarchivum.org/catalog/lXpKZ2oq",
+    "notes": "Verzio Film Festival Submission",
+    "countries": [
+      226,
+      231,
+      240,
+      255
+    ],
+    "directors": [
+      407
+    ],
+    "keywords": [
+      49,
+      50,
+      51
+    ]
+  }
+},
+{
+  "model": "records.filmlibraryrecord",
+  "pk": 743,
+  "fields": {
+    "trailer_url": "https://www.youtube.com/watch?v=7PnC23zC5Bg",
+    "title": "Hope",
+    "abstract": "A refugee who survives a boat sinking that killed over 400 other refugees, then spends the rest of her life telling her story",
+    "temporal_coverage_start": 2001,
+    "temporal_coverage_end": 2006,
+    "catalog_url": "http://catalog.osaarchivum.org/catalog/VYBOP7e2",
+    "notes": "",
+    "countries": [
+      205
+    ],
+    "directors": [
+      408
+    ],
+    "keywords": [
+      49,
+      56
+    ]
+  }
+},
+{
+  "model": "records.filmlibraryrecord",
+  "pk": 744,
+  "fields": {
+    "trailer_url": "https://www.youtube.com/watch?v=MrewsXNvvb4",
+    "title": "A Nun's New Habit",
+    "abstract": "Asylum-seeking refugees from Iraq and Iran placed in detention centers in Australia face challenges and harassment within the refugee center and in society",
+    "temporal_coverage_start": 1969,
+    "temporal_coverage_end": 2007,
+    "catalog_url": "http://catalog.osaarchivum.org/catalog/0YqKvWod",
+    "notes": "Verzio Film Festival Submission",
+    "countries": [
+      205,
+      226
+    ],
+    "directors": [
+      409
+    ],
+    "keywords": [
+      49,
+      50
+    ]
+  }
+},
+{
+  "model": "records.filmlibraryrecord",
+  "pk": 745,
+  "fields": {
+    "trailer_url": "",
+    "title": "300 Miles to Heaven",
+    "abstract": "In this accurate dramatization of a daring escape by two boys from communist Poland to Denmark, the boys soon learn the world outside communism can also be harsh and sometimes unforgiving",
+    "temporal_coverage_start": 1985,
+    "temporal_coverage_end": 1989,
+    "catalog_url": "http://catalog.osaarchivum.org/catalog/4X72v2o2",
+    "notes": "Copyright by Propaganda DVD Fabrika",
+    "countries": [
+      256
+    ],
+    "directors": [
+      410
+    ],
+    "keywords": [
+      48,
+      49
+    ]
+  }
+},
+{
+  "model": "records.filmlibraryrecord",
+  "pk": 746,
+  "fields": {
+    "trailer_url": "",
+    "title": "Bosnia, Bosnia!",
+    "abstract": "Refugees who were rescued from a psychiatric ward in Bosnia during the war in Former Yugoslavia have been in a makeshift refugee camp for the past 17 years in Hungary",
+    "temporal_coverage_start": 1992,
+    "temporal_coverage_end": 2011,
+    "catalog_url": "http://catalog.osaarchivum.org/catalog/Pe8jRjXW",
+    "notes": "Verzio Film Festival Submission",
+    "countries": [
+      212
+    ],
+    "directors": [
+      411
+    ],
+    "keywords": [
+      48,
+      49
+    ]
+  }
+},
+{
+  "model": "records.filmlibraryrecord",
+  "pk": 747,
+  "fields": {
+    "trailer_url": "",
+    "title": "Document: Hoyerswerda I Frontex",
+    "abstract": "The story of racial attacks on refugees that happened in Hoyerswerda (East Germany) on four people from Mozambique in 1991 and those who tried to help them, also showcases the difference between immigration policy then and now",
+    "temporal_coverage_start": 1991,
+    "temporal_coverage_end": 2014,
+    "catalog_url": "http://catalog.osaarchivum.org/catalog/KYQ96kYg",
+    "notes": "",
+    "countries": [
+      257
+    ],
+    "directors": [
+      412
+    ],
+    "keywords": [
+      48,
+      49
+    ]
+  }
+},
+{
+  "model": "records.filmlibraryrecord",
+  "pk": 748,
+  "fields": {
+    "trailer_url": "https://www.youtube.com/watch?v=rsVLCeFq5hU",
+    "title": "LogBook_Serbistan",
+    "abstract": "Asylum-seeking refugees who are seeking all opportunities to arrive in Europe and face major hardships and humiliations; the fiction film shadows the restrictive nature of Europe's immigration policies",
+    "temporal_coverage_start": 2014,
+    "temporal_coverage_end": 2015,
+    "catalog_url": "http://catalog.osaarchivum.org/catalog/JXd6Zqek",
+    "notes": "",
+    "countries": [
+      206,
+      228,
+      243,
+      258
+    ],
+    "directors": [
+      405
+    ],
+    "keywords": [
+      49,
+      55
+    ]
+  }
+},
+{
+  "model": "records.filmlibraryrecord",
+  "pk": 749,
+  "fields": {
+    "trailer_url": "",
+    "title": "Caught Between Two Worlds",
+    "abstract": "Four people, from four different countries and cultures have the commonality of being refugees in Hungary stuck in a transition camp to prepare them for life in Hungary",
+    "temporal_coverage_start": 2009,
+    "temporal_coverage_end": null,
+    "catalog_url": "http://catalog.osaarchivum.org/catalog/lePNjJXy",
+    "notes": "Verzio Film Festival Submission",
+    "countries": [
+      214,
+      219,
+      240,
+      246
+    ],
+    "directors": [
+      413
+    ],
+    "keywords": [
+      48,
+      49,
+      51,
+      55
+    ]
+  }
+},
+{
+  "model": "records.filmlibraryrecord",
+  "pk": 750,
+  "fields": {
+    "trailer_url": "https://www.youtube.com/watch?v=_t0mshPy5yMWar II\\",
+    "title": "Children in Exile: Recollections of Childhood",
+    "abstract": "Under the Soviet government during World War II, there were many victims of atrocities committed by the government on its own people, this film focuses on just the youngest among those victims",
+    "temporal_coverage_start": 1939,
+    "temporal_coverage_end": 1953,
+    "catalog_url": "http://catalog.osaarchivum.org/catalog/wXZ6B7X7",
+    "notes": "Verzio Film Festival Submission",
+    "countries": [
+      231
+    ],
+    "directors": [
+      414
+    ],
+    "keywords": [
+      50,
+      53
+    ]
+  }
+},
+{
+  "model": "records.filmlibraryrecord",
+  "pk": 751,
+  "fields": {
+    "trailer_url": "https://www.youtube.com/watch?v=43ldLbAe3-c",
+    "title": "Saved By Words",
+    "abstract": "The story of a refugee escaping from Iraq and waiting to receive a residency permit and shows the hardship and challenges of being an immigrant refugee into Europe and leaving your family and identity behind",
+    "temporal_coverage_start": 2008,
+    "temporal_coverage_end": 2009,
+    "catalog_url": "http://catalog.osaarchivum.org/catalog/lePn8lXy",
+    "notes": "Verzio Film Festival Submission",
+    "countries": [
+      205
+    ],
+    "directors": [
+      415
+    ],
+    "keywords": [
+      49,
+      55
+    ]
+  }
+},
+{
+  "model": "records.filmlibraryrecord",
+  "pk": 752,
+  "fields": {
+    "trailer_url": "",
+    "title": "Voices in Transit",
+    "abstract": "Identities can quickly change and become lost through the asylum-seeking process, particularly when certain countries aren't receptive to refugees at all",
+    "temporal_coverage_start": 2005,
+    "temporal_coverage_end": null,
+    "catalog_url": "http://catalog.osaarchivum.org/catalog/WokQ0DYr",
+    "notes": "Verzio Film Festival Submission",
+    "countries": [
+      217,
+      232,
+      240,
+      243
+    ],
+    "directors": [
+      416
+    ],
+    "keywords": [
+      49,
+      55
+    ]
+  }
+},
+{
+  "model": "records.filmlibraryrecord",
+  "pk": 753,
+  "fields": {
+    "trailer_url": "",
+    "title": "The Immigration Judge",
+    "abstract": "From the perspective of immigration judges- shows their various, daily dilemmas while deciding the fates of immigrants and refugees within Amsterdam",
+    "temporal_coverage_start": 2008,
+    "temporal_coverage_end": null,
+    "catalog_url": "http://catalog.osaarchivum.org/catalog/2oWbp9ev",
+    "notes": "Verzio Film Festival Submission",
+    "countries": [
+      259
+    ],
+    "directors": [
+      417
+    ],
+    "keywords": [
+      49,
+      55
+    ]
+  }
+},
+{
+  "model": "records.filmlibraryrecord",
+  "pk": 754,
+  "fields": {
+    "trailer_url": "",
+    "title": "Houses",
+    "abstract": "The film showcases refugees from the former Yugoslavia and the struggles they face in a refugee camp in Hungary",
+    "temporal_coverage_start": 1991,
+    "temporal_coverage_end": 2001,
+    "catalog_url": "http://catalog.osaarchivum.org/catalog/BX9mPVXk",
+    "notes": "",
+    "countries": [
+      212
+    ],
+    "directors": [
+      418
+    ],
+    "keywords": [
+      48,
+      50,
+      51
+    ]
+  }
+},
+{
+  "model": "records.filmlibraryrecord",
+  "pk": 755,
+  "fields": {
+    "trailer_url": "",
+    "title": "The Eye of the Needle",
+    "abstract": "Asylum-seeking refugees from Macedonia and Bosnia work to understand and follow the order of the Swedish and European migration policy.",
+    "temporal_coverage_start": 2004,
+    "temporal_coverage_end": 2005,
+    "catalog_url": "http://catalog.osaarchivum.org/catalog/loVNqBo8",
+    "notes": "Verzio Film Festival Submission",
+    "countries": [
+      212,
+      260
+    ],
+    "directors": [
+      419
+    ],
+    "keywords": [
+      49,
+      55
+    ]
+  }
+},
+{
+  "model": "records.filmlibraryrecord",
+  "pk": 756,
+  "fields": {
+    "trailer_url": "",
+    "title": "Those",
+    "abstract": "When a new refugee camp is opened a few miles away from a small Hungarian village, the villagers have mixed reactions, with some resorting to violence and protests",
+    "temporal_coverage_start": 2013,
+    "temporal_coverage_end": 2015,
+    "catalog_url": "http://catalog.osaarchivum.org/catalog/kojjLOoO",
+    "notes": "",
+    "countries": [
+      228
+    ],
+    "directors": [
+      420
+    ],
+    "keywords": [
+      48,
+      51
+    ]
+  }
+},
+{
+  "model": "records.filmlibraryrecord",
+  "pk": 757,
+  "fields": {
+    "trailer_url": "",
+    "title": "The Unwanted",
+    "abstract": "The Bulgarian authorities forced the migration of 1 million ethnic Turks to Turkey if they refused to change their names into Bulgarian ones. Over 350,000 individuals fled the country and Turkey close their borders, leaving many people divided",
+    "temporal_coverage_start": 1980,
+    "temporal_coverage_end": 2000,
+    "catalog_url": "http://catalog.osaarchivum.org/catalog/aYapmRXJ",
+    "notes": "Soros Documentary Fund",
+    "countries": [
+      250
+    ],
+    "directors": [
+      421
+    ],
+    "keywords": [
+      48,
+      49,
+      53
+    ]
+  }
+},
+{
+  "model": "records.filmlibraryrecord",
+  "pk": 758,
+  "fields": {
+    "trailer_url": "",
+    "title": "Between the Lines",
+    "abstract": "This film focuses on the detention and \"illegal\" status of immigrants specifically in New Delhi and the often harsh situations they faced away from their families",
+    "temporal_coverage_start": 2000,
+    "temporal_coverage_end": 2001,
+    "catalog_url": "http://catalog.osaarchivum.org/catalog/doy2JdXk",
+    "notes": "Verzio Film Festival Submission",
+    "countries": [
+      218
+    ],
+    "directors": [
+      422
+    ],
+    "keywords": [
+      49,
+      50,
+      55
+    ]
+  }
+},
+{
+  "model": "records.filmlibraryrecord",
+  "pk": 759,
+  "fields": {
+    "trailer_url": "https://www.youtube.com/watch?v=q2dVmr7_ZXI",
+    "title": "Outside of Europe",
+    "abstract": "Because of the EU's often strict immigration/refugee policy, many trying to get in through Ukraine end up at two refugee centers on the Ukrainian side of the border, hoping to someday get into the EU",
+    "temporal_coverage_start": 2005,
+    "temporal_coverage_end": 2006,
+    "catalog_url": "http://catalog.osaarchivum.org/catalog/Ge4ykaoL",
+    "notes": "Verzio Film Festival Submission",
+    "countries": [
+      261
+    ],
+    "directors": [
+      423
+    ],
+    "keywords": [
+      49,
+      51
+    ]
+  }
+},
+{
+  "model": "records.filmlibraryrecord",
+  "pk": 760,
+  "fields": {
+    "trailer_url": "",
+    "title": "Shafiq Monis in Australia",
+    "abstract": "Narrative of an Afghan man caught by the Taliban for drawing and painting, which is considered a crime under their command. He soon after fled the country and is detained in a refugee center in Australia",
+    "temporal_coverage_start": 1999,
+    "temporal_coverage_end": 2006,
+    "catalog_url": "http://catalog.osaarchivum.org/catalog/aYapMzXJ",
+    "notes": "Verzio Film Festival Submission",
+    "countries": [
+      228
+    ],
+    "directors": [
+      424
+    ],
+    "keywords": [
+      48,
+      49,
+      50,
+      51
+    ]
+  }
+},
+{
+  "model": "records.filmlibraryrecord",
+  "pk": 761,
+  "fields": {
+    "trailer_url": "",
+    "title": "Free Inside...Gypsies and Swiss",
+    "abstract": "Discusses internally-displaced Yenish people, a majority of which were young children, within Switzerland who were forced from their homes to participate in \"re-education\" programs",
+    "temporal_coverage_start": null,
+    "temporal_coverage_end": null,
+    "catalog_url": "http://catalog.osaarchivum.org/catalog/BX98V0ok",
+    "notes": "Donation from OSI-Budapest Arts and Culture Program",
+    "countries": [],
+    "directors": [
+      425
+    ],
+    "keywords": [
+      53
+    ]
+  }
+}
+]
