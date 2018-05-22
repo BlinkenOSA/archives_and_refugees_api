@@ -1,65 +1,86 @@
 [
 {
   "model": "records.keyword",
-  "pk": 48,
+  "pk": 1,
   "fields": {
     "keyword": "Migrant"
   }
 },
 {
   "model": "records.keyword",
-  "pk": 49,
+  "pk": 2,
   "fields": {
     "keyword": "Asylum-Seeker"
   }
 },
 {
   "model": "records.keyword",
-  "pk": 50,
+  "pk": 3,
   "fields": {
     "keyword": "Detention"
   }
 },
 {
   "model": "records.keyword",
-  "pk": 51,
+  "pk": 4,
   "fields": {
     "keyword": "Refugee Camp"
   }
 },
 {
   "model": "records.keyword",
-  "pk": 52,
+  "pk": 5,
   "fields": {
     "keyword": "Combatant"
   }
 },
 {
   "model": "records.keyword",
-  "pk": 53,
+  "pk": 6,
   "fields": {
     "keyword": "Internal Displacement"
   }
 },
 {
   "model": "records.keyword",
-  "pk": 54,
+  "pk": 7,
   "fields": {
     "keyword": "Sexual and Gender-Based Violence"
   }
 },
 {
   "model": "records.keyword",
-  "pk": 55,
+  "pk": 8,
   "fields": {
     "keyword": "Asylum Application"
   }
 },
 {
   "model": "records.keyword",
-  "pk": 56,
+  "pk": 9,
   "fields": {
     "keyword": "Family Reunification"
+  }
+},
+{
+  "model": "records.keyword",
+  "pk": 10,
+  "fields": {
+    "keyword": "Sexual and Gender Based Violence"
+  }
+},
+{
+  "model": "records.keyword",
+  "pk": 11,
+  "fields": {
+    "keyword": "Internal Migration"
+  }
+},
+{
+  "model": "records.keyword",
+  "pk": 12,
+  "fields": {
+    "keyword": ""
   }
 }
 ]
