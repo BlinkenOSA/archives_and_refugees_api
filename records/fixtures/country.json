@@ -4,8 +4,8 @@
   "pk": 1,
   "fields": {
     "country": "Iraq",
-    "latitude": null,
-    "longitude": null
+    "latitude": 33.223191,
+    "longitude": 43.679291
   }
 },
 {
@@ -13,8 +13,8 @@
   "pk": 2,
   "fields": {
     "country": "Syria",
-    "latitude": null,
-    "longitude": null
+    "latitude": 34.80207499999999,
+    "longitude": 38.996815
   }
 },
 {
@@ -22,8 +22,8 @@
   "pk": 3,
   "fields": {
     "country": "Spain",
-    "latitude": null,
-    "longitude": null
+    "latitude": 40.46366700000001,
+    "longitude": -3.74922
   }
 },
 {
@@ -31,8 +31,8 @@
   "pk": 4,
   "fields": {
     "country": "Argentina",
-    "latitude": null,
-    "longitude": null
+    "latitude": -38.4192641,
+    "longitude": -63.5989206
   }
 },
 {
@@ -40,8 +40,8 @@
   "pk": 5,
   "fields": {
     "country": "Italy",
-    "latitude": null,
-    "longitude": null
+    "latitude": 41.87194,
+    "longitude": 12.56738
   }
 },
 {
@@ -49,8 +49,8 @@
   "pk": 6,
   "fields": {
     "country": "Peru",
-    "latitude": null,
-    "longitude": null
+    "latitude": -9.189967,
+    "longitude": -75.015152
   }
 },
 {
@@ -58,8 +58,8 @@
   "pk": 7,
   "fields": {
     "country": "Bolivia",
-    "latitude": null,
-    "longitude": null
+    "latitude": -16.2837065,
+    "longitude": -63.5493965
   }
 },
 {
@@ -67,8 +67,8 @@
   "pk": 8,
   "fields": {
     "country": "Bosnia and Herzegovina",
-    "latitude": null,
-    "longitude": null
+    "latitude": 43.915886,
+    "longitude": 17.679076
   }
 },
 {
@@ -76,8 +76,8 @@
   "pk": 9,
   "fields": {
     "country": "Croatia",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.1,
+    "longitude": 15.2000001
   }
 },
 {
@@ -85,8 +85,8 @@
   "pk": 10,
   "fields": {
     "country": "Lebanon",
-    "latitude": null,
-    "longitude": null
+    "latitude": 33.854721,
+    "longitude": 35.862285
   }
 },
 {
@@ -94,8 +94,8 @@
   "pk": 11,
   "fields": {
     "country": "Palestine",
-    "latitude": null,
-    "longitude": null
+    "latitude": 31.952162,
+    "longitude": 35.233154
   }
 },
 {
@@ -103,8 +103,8 @@
   "pk": 12,
   "fields": {
     "country": "Eritrea",
-    "latitude": null,
-    "longitude": null
+    "latitude": 15.179384,
+    "longitude": 39.782334
   }
 },
 {
@@ -112,8 +112,8 @@
   "pk": 13,
   "fields": {
     "country": "Nigeria",
-    "latitude": null,
-    "longitude": null
+    "latitude": 9.081999,
+    "longitude": 8.675277
   }
 },
 {
@@ -121,8 +121,8 @@
   "pk": 14,
   "fields": {
     "country": "Bangladesh",
-    "latitude": null,
-    "longitude": null
+    "latitude": 23.684994,
+    "longitude": 90.356331
   }
 },
 {
@@ -130,8 +130,8 @@
   "pk": 15,
   "fields": {
     "country": "Ivory Coast",
-    "latitude": null,
-    "longitude": null
+    "latitude": 7.539988999999999,
+    "longitude": -5.547079999999999
   }
 },
 {
@@ -139,8 +139,8 @@
   "pk": 16,
   "fields": {
     "country": "Senegal",
-    "latitude": null,
-    "longitude": null
+    "latitude": 14.497401,
+    "longitude": -14.452362
   }
 },
 {
@@ -148,8 +148,8 @@
   "pk": 17,
   "fields": {
     "country": "Sudan",
-    "latitude": null,
-    "longitude": null
+    "latitude": 12.862807,
+    "longitude": 30.217636
   }
 },
 {
@@ -157,8 +157,8 @@
   "pk": 18,
   "fields": {
     "country": "Egypt",
-    "latitude": null,
-    "longitude": null
+    "latitude": 26.820553,
+    "longitude": 30.802498
   }
 },
 {
@@ -166,8 +166,8 @@
   "pk": 19,
   "fields": {
     "country": "Pakistan",
-    "latitude": null,
-    "longitude": null
+    "latitude": 30.375321,
+    "longitude": 69.34511599999999
   }
 },
 {
@@ -175,8 +175,8 @@
   "pk": 20,
   "fields": {
     "country": "Hungary",
-    "latitude": null,
-    "longitude": null
+    "latitude": 47.162494,
+    "longitude": 19.5033041
   }
 },
 {
@@ -184,8 +184,8 @@
   "pk": 21,
   "fields": {
     "country": "South Sudan",
-    "latitude": null,
-    "longitude": null
+    "latitude": 6.876991899999999,
+    "longitude": 31.3069788
   }
 },
 {
@@ -193,8 +193,8 @@
   "pk": 22,
   "fields": {
     "country": "Iran",
-    "latitude": null,
-    "longitude": null
+    "latitude": 32.427908,
+    "longitude": 53.688046
   }
 },
 {
@@ -202,8 +202,8 @@
   "pk": 23,
   "fields": {
     "country": "Rwanda",
-    "latitude": null,
-    "longitude": null
+    "latitude": -1.940278,
+    "longitude": 29.873888
   }
 },
 {
@@ -211,8 +211,8 @@
   "pk": 24,
   "fields": {
     "country": "Afghanistan",
-    "latitude": null,
-    "longitude": null
+    "latitude": 33.93911,
+    "longitude": 67.709953
   }
 },
 {
@@ -220,8 +220,8 @@
   "pk": 25,
   "fields": {
     "country": "Chad",
-    "latitude": null,
-    "longitude": null
+    "latitude": 15.454166,
+    "longitude": 18.732207
   }
 },
 {
@@ -229,8 +229,8 @@
   "pk": 26,
   "fields": {
     "country": "France",
-    "latitude": null,
-    "longitude": null
+    "latitude": 46.227638,
+    "longitude": 2.213749
   }
 },
 {
@@ -238,8 +238,8 @@
   "pk": 27,
   "fields": {
     "country": "Russia",
-    "latitude": null,
-    "longitude": null
+    "latitude": 61.52401,
+    "longitude": 105.318756
   }
 },
 {
@@ -247,8 +247,8 @@
   "pk": 28,
   "fields": {
     "country": "Democratic Republic of Congo",
-    "latitude": null,
-    "longitude": null
+    "latitude": -4.038333,
+    "longitude": 21.758664
   }
 },
 {
@@ -256,8 +256,8 @@
   "pk": 29,
   "fields": {
     "country": "Guinea",
-    "latitude": null,
-    "longitude": null
+    "latitude": 9.945587,
+    "longitude": -9.696645
   }
 },
 {
@@ -265,8 +265,8 @@
   "pk": 30,
   "fields": {
     "country": "Romania",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.943161,
+    "longitude": 24.96676
   }
 },
 {
@@ -274,8 +274,8 @@
   "pk": 31,
   "fields": {
     "country": "Kosovo",
-    "latitude": null,
-    "longitude": null
+    "latitude": 42.6026359,
+    "longitude": 20.902977
   }
 },
 {
@@ -283,8 +283,8 @@
   "pk": 32,
   "fields": {
     "country": "Mongolia",
-    "latitude": null,
-    "longitude": null
+    "latitude": 46.8651082,
+    "longitude": 103.8347844
   }
 },
 {
@@ -292,8 +292,8 @@
   "pk": 33,
   "fields": {
     "country": "Sri Lanka",
-    "latitude": null,
-    "longitude": null
+    "latitude": 7.873053999999999,
+    "longitude": 80.77179699999999
   }
 },
 {
@@ -301,8 +301,8 @@
   "pk": 34,
   "fields": {
     "country": "Ethiopia",
-    "latitude": null,
-    "longitude": null
+    "latitude": 9.145000000000001,
+    "longitude": 40.489673
   }
 },
 {
@@ -310,8 +310,8 @@
   "pk": 35,
   "fields": {
     "country": "Israel",
-    "latitude": null,
-    "longitude": null
+    "latitude": 31.046051,
+    "longitude": 34.851612
   }
 },
 {
@@ -319,8 +319,8 @@
   "pk": 36,
   "fields": {
     "country": "Somalia",
-    "latitude": null,
-    "longitude": null
+    "latitude": 5.152149,
+    "longitude": 46.199616
   }
 },
 {
@@ -328,8 +328,8 @@
   "pk": 37,
   "fields": {
     "country": "Armenia",
-    "latitude": null,
-    "longitude": null
+    "latitude": 40.0706185,
+    "longitude": 45.0407411
   }
 },
 {
@@ -337,8 +337,8 @@
   "pk": 38,
   "fields": {
     "country": "Lithuania",
-    "latitude": null,
-    "longitude": null
+    "latitude": 55.169438,
+    "longitude": 23.881275
   }
 },
 {
@@ -346,8 +346,8 @@
   "pk": 39,
   "fields": {
     "country": "Cameroon",
-    "latitude": null,
-    "longitude": null
+    "latitude": 7.369721999999999,
+    "longitude": 12.354722
   }
 },
 {
@@ -355,8 +355,8 @@
   "pk": 40,
   "fields": {
     "country": "Turkey",
-    "latitude": null,
-    "longitude": null
+    "latitude": 38.963745,
+    "longitude": 35.243322
   }
 },
 {
@@ -364,8 +364,8 @@
   "pk": 41,
   "fields": {
     "country": "China",
-    "latitude": null,
-    "longitude": null
+    "latitude": 35.86166,
+    "longitude": 104.195397
   }
 },
 {
@@ -373,8 +373,8 @@
   "pk": 42,
   "fields": {
     "country": "Georgia",
-    "latitude": null,
-    "longitude": null
+    "latitude": 42.3207845,
+    "longitude": 43.3713615
   }
 },
 {
@@ -382,8 +382,8 @@
   "pk": 43,
   "fields": {
     "country": "Togo",
-    "latitude": null,
-    "longitude": null
+    "latitude": 8.6259267,
+    "longitude": 0.8325041
   }
 },
 {
@@ -391,8 +391,8 @@
   "pk": 44,
   "fields": {
     "country": "Colombia",
-    "latitude": null,
-    "longitude": null
+    "latitude": 4.570868,
+    "longitude": -74.297333
   }
 },
 {
@@ -400,8 +400,8 @@
   "pk": 45,
   "fields": {
     "country": "Morocco",
-    "latitude": null,
-    "longitude": null
+    "latitude": 31.791702,
+    "longitude": -7.092619999999999
   }
 },
 {
@@ -409,8 +409,8 @@
   "pk": 46,
   "fields": {
     "country": "Bulgaria",
-    "latitude": null,
-    "longitude": null
+    "latitude": 42.733883,
+    "longitude": 25.48583
   }
 },
 {
@@ -418,8 +418,8 @@
   "pk": 47,
   "fields": {
     "country": "Moldova",
-    "latitude": null,
-    "longitude": null
+    "latitude": 47.411631,
+    "longitude": 28.369885
   }
 },
 {
@@ -427,8 +427,8 @@
   "pk": 48,
   "fields": {
     "country": "Kazakhstan",
-    "latitude": null,
-    "longitude": null
+    "latitude": 48.019573,
+    "longitude": 66.923684
   }
 },
 {
@@ -436,17 +436,8 @@
   "pk": 49,
   "fields": {
     "country": "Philippines",
-    "latitude": null,
-    "longitude": null
-  }
-},
-{
-  "model": "records.country",
-  "pk": 50,
-  "fields": {
-    "country": "",
-    "latitude": null,
-    "longitude": null
+    "latitude": 12.879721,
+    "longitude": 121.774017
   }
 },
 {
@@ -454,8 +445,8 @@
   "pk": 51,
   "fields": {
     "country": "The Gambia",
-    "latitude": null,
-    "longitude": null
+    "latitude": 13.443182,
+    "longitude": -15.310139
   }
 },
 {
@@ -463,8 +454,8 @@
   "pk": 52,
   "fields": {
     "country": "Poland",
-    "latitude": null,
-    "longitude": null
+    "latitude": 51.919438,
+    "longitude": 19.145136
   }
 },
 {
@@ -472,8 +463,8 @@
   "pk": 53,
   "fields": {
     "country": "Mozambique",
-    "latitude": null,
-    "longitude": null
+    "latitude": -18.6696553,
+    "longitude": 35.5273354
   }
 },
 {
@@ -481,8 +472,8 @@
   "pk": 54,
   "fields": {
     "country": "Ghana",
-    "latitude": null,
-    "longitude": null
+    "latitude": 7.946527,
+    "longitude": -1.023194
   }
 },
 {
@@ -490,8 +481,8 @@
   "pk": 55,
   "fields": {
     "country": "Netherlands",
-    "latitude": null,
-    "longitude": null
+    "latitude": 52.132633,
+    "longitude": 5.291265999999999
   }
 },
 {
@@ -499,8 +490,8 @@
   "pk": 56,
   "fields": {
     "country": "Macedonia",
-    "latitude": null,
-    "longitude": null
+    "latitude": 41.608635,
+    "longitude": 21.745275
   }
 },
 {
@@ -508,8 +499,8 @@
   "pk": 57,
   "fields": {
     "country": "Ukraine",
-    "latitude": null,
-    "longitude": null
+    "latitude": 48.379433,
+    "longitude": 31.1655799
   }
 },
 {
@@ -517,8 +508,8 @@
   "pk": 58,
   "fields": {
     "country": "Switzerland",
-    "latitude": null,
-    "longitude": null
+    "latitude": 46.818188,
+    "longitude": 8.227511999999999
   }
 },
 {
@@ -526,8 +517,8 @@
   "pk": 59,
   "fields": {
     "country": "Tajikistan",
-    "latitude": null,
-    "longitude": null
+    "latitude": 38.861034,
+    "longitude": 71.276093
   }
 },
 {
@@ -535,8 +526,8 @@
   "pk": 60,
   "fields": {
     "country": "Mali",
-    "latitude": null,
-    "longitude": null
+    "latitude": 17.570692,
+    "longitude": -3.996166
   }
 },
 {
@@ -544,8 +535,8 @@
   "pk": 61,
   "fields": {
     "country": "India",
-    "latitude": null,
-    "longitude": null
+    "latitude": 20.593684,
+    "longitude": 78.96288
   }
 },
 {
@@ -553,8 +544,8 @@
   "pk": 62,
   "fields": {
     "country": "Algeria",
-    "latitude": null,
-    "longitude": null
+    "latitude": 28.033886,
+    "longitude": 1.659626
   }
 },
 {
@@ -562,8 +553,8 @@
   "pk": 63,
   "fields": {
     "country": "Kenya",
-    "latitude": null,
-    "longitude": null
+    "latitude": 0.1768696,
+    "longitude": 37.9083264
   }
 },
 {
@@ -571,8 +562,8 @@
   "pk": 64,
   "fields": {
     "country": "Uganda",
-    "latitude": null,
-    "longitude": null
+    "latitude": 1.373333,
+    "longitude": 32.290275
   }
 },
 {
@@ -580,8 +571,8 @@
   "pk": 65,
   "fields": {
     "country": "Libya",
-    "latitude": null,
-    "longitude": null
+    "latitude": 26.3347113,
+    "longitude": 17.2692101
   }
 },
 {
@@ -589,8 +580,8 @@
   "pk": 66,
   "fields": {
     "country": "Djibouti",
-    "latitude": null,
-    "longitude": null
+    "latitude": 11.825138,
+    "longitude": 42.590275
   }
 },
 {
@@ -598,8 +589,8 @@
   "pk": 67,
   "fields": {
     "country": "Sierra Leone",
-    "latitude": null,
-    "longitude": null
+    "latitude": 8.4494988,
+    "longitude": -11.7868289
   }
 },
 {
@@ -607,8 +598,8 @@
   "pk": 68,
   "fields": {
     "country": "Tunisia",
-    "latitude": null,
-    "longitude": null
+    "latitude": 33.886917,
+    "longitude": 9.537499
   }
 },
 {
@@ -616,8 +607,8 @@
   "pk": 69,
   "fields": {
     "country": "Greece",
-    "latitude": null,
-    "longitude": null
+    "latitude": 39.074208,
+    "longitude": 21.824312
   }
 },
 {
@@ -625,8 +616,8 @@
   "pk": 70,
   "fields": {
     "country": "Albania",
-    "latitude": null,
-    "longitude": null
+    "latitude": 41.153332,
+    "longitude": 20.168331
   }
 },
 {
@@ -634,8 +625,8 @@
   "pk": 71,
   "fields": {
     "country": "Thailand",
-    "latitude": null,
-    "longitude": null
+    "latitude": 15.870032,
+    "longitude": 100.992541
   }
 },
 {
@@ -643,8 +634,8 @@
   "pk": 72,
   "fields": {
     "country": "Serbia",
-    "latitude": null,
-    "longitude": null
+    "latitude": 44.016521,
+    "longitude": 21.005859
   }
 },
 {
@@ -652,8 +643,8 @@
   "pk": 73,
   "fields": {
     "country": "Jordan",
-    "latitude": null,
-    "longitude": null
+    "latitude": 30.585164,
+    "longitude": 36.238414
   }
 },
 {
@@ -661,8 +652,8 @@
   "pk": 74,
   "fields": {
     "country": "Myanmar",
-    "latitude": null,
-    "longitude": null
+    "latitude": 21.916221,
+    "longitude": 95.955974
   }
 },
 {
@@ -670,8 +661,8 @@
   "pk": 75,
   "fields": {
     "country": "Czech Republic",
-    "latitude": null,
-    "longitude": null
+    "latitude": 49.81749199999999,
+    "longitude": 15.472962
   }
 },
 {
@@ -679,8 +670,8 @@
   "pk": 76,
   "fields": {
     "country": "Vietnam",
-    "latitude": null,
-    "longitude": null
+    "latitude": 14.058324,
+    "longitude": 108.277199
   }
 },
 {
@@ -688,8 +679,8 @@
   "pk": 77,
   "fields": {
     "country": "North Korea",
-    "latitude": null,
-    "longitude": null
+    "latitude": 40.339852,
+    "longitude": 127.510093
   }
 },
 {
@@ -697,8 +688,8 @@
   "pk": 78,
   "fields": {
     "country": "Germany",
-    "latitude": null,
-    "longitude": null
+    "latitude": 51.165691,
+    "longitude": 10.451526
   }
 },
 {
@@ -706,8 +697,8 @@
   "pk": 79,
   "fields": {
     "country": "Western Sahara",
-    "latitude": null,
-    "longitude": null
+    "latitude": 24.215527,
+    "longitude": -12.885834
   }
 },
 {
@@ -715,8 +706,8 @@
   "pk": 80,
   "fields": {
     "country": "The Netherlands",
-    "latitude": null,
-    "longitude": null
+    "latitude": 52.132633,
+    "longitude": 5.291265999999999
   }
 },
 {
@@ -724,8 +715,8 @@
   "pk": 81,
   "fields": {
     "country": "Uzbekistan",
-    "latitude": null,
-    "longitude": null
+    "latitude": 41.377491,
+    "longitude": 64.585262
   }
 },
 {
@@ -733,8 +724,8 @@
   "pk": 82,
   "fields": {
     "country": "Austria",
-    "latitude": null,
-    "longitude": null
+    "latitude": 47.516231,
+    "longitude": 14.550072
   }
 },
 {
@@ -742,8 +733,8 @@
   "pk": 83,
   "fields": {
     "country": "Slovakia",
-    "latitude": null,
-    "longitude": null
+    "latitude": 48.669026,
+    "longitude": 19.699024
   }
 },
 {
@@ -751,8 +742,8 @@
   "pk": 84,
   "fields": {
     "country": "United Kingdom",
-    "latitude": null,
-    "longitude": null
+    "latitude": 55.378051,
+    "longitude": -3.435973
   }
 },
 {
@@ -760,8 +751,8 @@
   "pk": 85,
   "fields": {
     "country": "El Salvador",
-    "latitude": null,
-    "longitude": null
+    "latitude": 13.8029939,
+    "longitude": -88.9053364
   }
 },
 {
@@ -769,8 +760,8 @@
   "pk": 86,
   "fields": {
     "country": "Caribbean",
-    "latitude": null,
-    "longitude": null
+    "latitude": 21.4691137,
+    "longitude": -78.6568942
   }
 },
 {
@@ -778,8 +769,8 @@
   "pk": 87,
   "fields": {
     "country": "South Asia",
-    "latitude": null,
-    "longitude": null
+    "latitude": 0.0,
+    "longitude": 0.0
   }
 },
 {
@@ -787,8 +778,8 @@
   "pk": 88,
   "fields": {
     "country": "Mexico",
-    "latitude": null,
-    "longitude": null
+    "latitude": 23.6260333,
+    "longitude": -102.5375005
   }
 },
 {
@@ -796,8 +787,8 @@
   "pk": 89,
   "fields": {
     "country": "Cambodia",
-    "latitude": null,
-    "longitude": null
+    "latitude": 12.565679,
+    "longitude": 104.990963
   }
 },
 {
@@ -805,8 +796,8 @@
   "pk": 90,
   "fields": {
     "country": "Laos",
-    "latitude": null,
-    "longitude": null
+    "latitude": 19.85627,
+    "longitude": 102.495496
   }
 },
 {
@@ -814,8 +805,8 @@
   "pk": 91,
   "fields": {
     "country": "Chile",
-    "latitude": null,
-    "longitude": null
+    "latitude": -35.675147,
+    "longitude": -71.542969
   }
 },
 {
@@ -823,8 +814,8 @@
   "pk": 92,
   "fields": {
     "country": "East Timor",
-    "latitude": null,
-    "longitude": null
+    "latitude": -8.874217,
+    "longitude": 125.727539
   }
 },
 {
@@ -832,8 +823,8 @@
   "pk": 93,
   "fields": {
     "country": "Canada",
-    "latitude": null,
-    "longitude": null
+    "latitude": 56.130366,
+    "longitude": -106.346771
   }
 },
 {
@@ -841,8 +832,8 @@
   "pk": 94,
   "fields": {
     "country": "United States",
-    "latitude": null,
-    "longitude": null
+    "latitude": 37.09024,
+    "longitude": -95.712891
   }
 },
 {
@@ -850,8 +841,8 @@
   "pk": 95,
   "fields": {
     "country": "Central African Republic",
-    "latitude": null,
-    "longitude": null
+    "latitude": 6.611110999999999,
+    "longitude": 20.939444
   }
 },
 {
@@ -859,8 +850,8 @@
   "pk": 96,
   "fields": {
     "country": "Malaysia",
-    "latitude": null,
-    "longitude": null
+    "latitude": 4.140634,
+    "longitude": 109.6181485
   }
 },
 {
@@ -868,8 +859,8 @@
   "pk": 97,
   "fields": {
     "country": "Ireland",
-    "latitude": null,
-    "longitude": null
+    "latitude": 53.1423672,
+    "longitude": -7.692053599999999
   }
 },
 {
@@ -877,8 +868,8 @@
   "pk": 98,
   "fields": {
     "country": "Belgium",
-    "latitude": null,
-    "longitude": null
+    "latitude": 50.503887,
+    "longitude": 4.469936
   }
 },
 {
@@ -886,8 +877,8 @@
   "pk": 99,
   "fields": {
     "country": "Indonesia",
-    "latitude": null,
-    "longitude": null
+    "latitude": -0.789275,
+    "longitude": 113.921327
   }
 },
 {
@@ -895,8 +886,8 @@
   "pk": 100,
   "fields": {
     "country": "Burkina Faso",
-    "latitude": null,
-    "longitude": null
+    "latitude": 12.238333,
+    "longitude": -1.561593
   }
 },
 {
@@ -904,8 +895,8 @@
   "pk": 101,
   "fields": {
     "country": "Zimbabwe",
-    "latitude": null,
-    "longitude": null
+    "latitude": -19.015438,
+    "longitude": 29.154857
   }
 },
 {
@@ -913,8 +904,8 @@
   "pk": 102,
   "fields": {
     "country": "South Africa",
-    "latitude": null,
-    "longitude": null
+    "latitude": -30.559482,
+    "longitude": 22.937506
   }
 },
 {
@@ -922,8 +913,8 @@
   "pk": 103,
   "fields": {
     "country": "Gambia",
-    "latitude": null,
-    "longitude": null
+    "latitude": 13.443182,
+    "longitude": -15.310139
   }
 },
 {
@@ -931,8 +922,8 @@
   "pk": 104,
   "fields": {
     "country": "Mauritius",
-    "latitude": null,
-    "longitude": null
+    "latitude": -20.20665,
+    "longitude": 57.6755
   }
 }
 ]
