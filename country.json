@@ -1,0 +1,938 @@
+[
+{
+  "model": "records.country",
+  "pk": 1,
+  "fields": {
+    "country": "Iraq",
+    "latitude": null,
+    "longitude": null
+  }
+},
+{
+  "model": "records.country",
+  "pk": 2,
+  "fields": {
+    "country": "Syria",
+    "latitude": null,
+    "longitude": null
+  }
+},
+{
+  "model": "records.country",
+  "pk": 3,
+  "fields": {
+    "country": "Spain",
+    "latitude": null,
+    "longitude": null
+  }
+},
+{
+  "model": "records.country",
+  "pk": 4,
+  "fields": {
+    "country": "Argentina",
+    "latitude": null,
+    "longitude": null
+  }
+},
+{
+  "model": "records.country",
+  "pk": 5,
+  "fields": {
+    "country": "Italy",
+    "latitude": null,
+    "longitude": null
+  }
+},
+{
+  "model": "records.country",
+  "pk": 6,
+  "fields": {
+    "country": "Peru",
+    "latitude": null,
+    "longitude": null
+  }
+},
+{
+  "model": "records.country",
+  "pk": 7,
+  "fields": {
+    "country": "Bolivia",
+    "latitude": null,
+    "longitude": null
+  }
+},
+{
+  "model": "records.country",
+  "pk": 8,
+  "fields": {
+    "country": "Bosnia and Herzegovina",
+    "latitude": null,
+    "longitude": null
+  }
+},
+{
+  "model": "records.country",
+  "pk": 9,
+  "fields": {
+    "country": "Croatia",
+    "latitude": null,
+    "longitude": null
+  }
+},
+{
+  "model": "records.country",
+  "pk": 10,
+  "fields": {
+    "country": "Lebanon",
+    "latitude": null,
+    "longitude": null
+  }
+},
+{
+  "model": "records.country",
+  "pk": 11,
+  "fields": {
+    "country": "Palestine",
+    "latitude": null,
+    "longitude": null
+  }
+},
+{
+  "model": "records.country",
+  "pk": 12,
+  "fields": {
+    "country": "Eritrea",
+    "latitude": null,
+    "longitude": null
+  }
+},
+{
+  "model": "records.country",
+  "pk": 13,
+  "fields": {
+    "country": "Nigeria",
+    "latitude": null,
+    "longitude": null
+  }
+},
+{
+  "model": "records.country",
+  "pk": 14,
+  "fields": {
+    "country": "Bangladesh",
+    "latitude": null,
+    "longitude": null
+  }
+},
+{
+  "model": "records.country",
+  "pk": 15,
+  "fields": {
+    "country": "Ivory Coast",
+    "latitude": null,
+    "longitude": null
+  }
+},
+{
+  "model": "records.country",
+  "pk": 16,
+  "fields": {
+    "country": "Senegal",
+    "latitude": null,
+    "longitude": null
+  }
+},
+{
+  "model": "records.country",
+  "pk": 17,
+  "fields": {
+    "country": "Sudan",
+    "latitude": null,
+    "longitude": null
+  }
+},
+{
+  "model": "records.country",
+  "pk": 18,
+  "fields": {
+    "country": "Egypt",
+    "latitude": null,
+    "longitude": null
+  }
+},
+{
+  "model": "records.country",
+  "pk": 19,
+  "fields": {
+    "country": "Pakistan",
+    "latitude": null,
+    "longitude": null
+  }
+},
+{
+  "model": "records.country",
+  "pk": 20,
+  "fields": {
+    "country": "Hungary",
+    "latitude": null,
+    "longitude": null
+  }
+},
+{
+  "model": "records.country",
+  "pk": 21,
+  "fields": {
+    "country": "South Sudan",
+    "latitude": null,
+    "longitude": null
+  }
+},
+{
+  "model": "records.country",
+  "pk": 22,
+  "fields": {
+    "country": "Iran",
+    "latitude": null,
+    "longitude": null
+  }
+},
+{
+  "model": "records.country",
+  "pk": 23,
+  "fields": {
+    "country": "Rwanda",
+    "latitude": null,
+    "longitude": null
+  }
+},
+{
+  "model": "records.country",
+  "pk": 24,
+  "fields": {
+    "country": "Afghanistan",
+    "latitude": null,
+    "longitude": null
+  }
+},
+{
+  "model": "records.country",
+  "pk": 25,
+  "fields": {
+    "country": "Chad",
+    "latitude": null,
+    "longitude": null
+  }
+},
+{
+  "model": "records.country",
+  "pk": 26,
+  "fields": {
+    "country": "France",
+    "latitude": null,
+    "longitude": null
+  }
+},
+{
+  "model": "records.country",
+  "pk": 27,
+  "fields": {
+    "country": "Russia",
+    "latitude": null,
+    "longitude": null
+  }
+},
+{
+  "model": "records.country",
+  "pk": 28,
+  "fields": {
+    "country": "Democratic Republic of Congo",
+    "latitude": null,
+    "longitude": null
+  }
+},
+{
+  "model": "records.country",
+  "pk": 29,
+  "fields": {
+    "country": "Guinea",
+    "latitude": null,
+    "longitude": null
+  }
+},
+{
+  "model": "records.country",
+  "pk": 30,
+  "fields": {
+    "country": "Romania",
+    "latitude": null,
+    "longitude": null
+  }
+},
+{
+  "model": "records.country",
+  "pk": 31,
+  "fields": {
+    "country": "Kosovo",
+    "latitude": null,
+    "longitude": null
+  }
+},
+{
+  "model": "records.country",
+  "pk": 32,
+  "fields": {
+    "country": "Mongolia",
+    "latitude": null,
+    "longitude": null
+  }
+},
+{
+  "model": "records.country",
+  "pk": 33,
+  "fields": {
+    "country": "Sri Lanka",
+    "latitude": null,
+    "longitude": null
+  }
+},
+{
+  "model": "records.country",
+  "pk": 34,
+  "fields": {
+    "country": "Ethiopia",
+    "latitude": null,
+    "longitude": null
+  }
+},
+{
+  "model": "records.country",
+  "pk": 35,
+  "fields": {
+    "country": "Israel",
+    "latitude": null,
+    "longitude": null
+  }
+},
+{
+  "model": "records.country",
+  "pk": 36,
+  "fields": {
+    "country": "Somalia",
+    "latitude": null,
+    "longitude": null
+  }
+},
+{
+  "model": "records.country",
+  "pk": 37,
+  "fields": {
+    "country": "Armenia",
+    "latitude": null,
+    "longitude": null
+  }
+},
+{
+  "model": "records.country",
+  "pk": 38,
+  "fields": {
+    "country": "Lithuania",
+    "latitude": null,
+    "longitude": null
+  }
+},
+{
+  "model": "records.country",
+  "pk": 39,
+  "fields": {
+    "country": "Cameroon",
+    "latitude": null,
+    "longitude": null
+  }
+},
+{
+  "model": "records.country",
+  "pk": 40,
+  "fields": {
+    "country": "Turkey",
+    "latitude": null,
+    "longitude": null
+  }
+},
+{
+  "model": "records.country",
+  "pk": 41,
+  "fields": {
+    "country": "China",
+    "latitude": null,
+    "longitude": null
+  }
+},
+{
+  "model": "records.country",
+  "pk": 42,
+  "fields": {
+    "country": "Georgia",
+    "latitude": null,
+    "longitude": null
+  }
+},
+{
+  "model": "records.country",
+  "pk": 43,
+  "fields": {
+    "country": "Togo",
+    "latitude": null,
+    "longitude": null
+  }
+},
+{
+  "model": "records.country",
+  "pk": 44,
+  "fields": {
+    "country": "Colombia",
+    "latitude": null,
+    "longitude": null
+  }
+},
+{
+  "model": "records.country",
+  "pk": 45,
+  "fields": {
+    "country": "Morocco",
+    "latitude": null,
+    "longitude": null
+  }
+},
+{
+  "model": "records.country",
+  "pk": 46,
+  "fields": {
+    "country": "Bulgaria",
+    "latitude": null,
+    "longitude": null
+  }
+},
+{
+  "model": "records.country",
+  "pk": 47,
+  "fields": {
+    "country": "Moldova",
+    "latitude": null,
+    "longitude": null
+  }
+},
+{
+  "model": "records.country",
+  "pk": 48,
+  "fields": {
+    "country": "Kazakhstan",
+    "latitude": null,
+    "longitude": null
+  }
+},
+{
+  "model": "records.country",
+  "pk": 49,
+  "fields": {
+    "country": "Philippines",
+    "latitude": null,
+    "longitude": null
+  }
+},
+{
+  "model": "records.country",
+  "pk": 50,
+  "fields": {
+    "country": "",
+    "latitude": null,
+    "longitude": null
+  }
+},
+{
+  "model": "records.country",
+  "pk": 51,
+  "fields": {
+    "country": "The Gambia",
+    "latitude": null,
+    "longitude": null
+  }
+},
+{
+  "model": "records.country",
+  "pk": 52,
+  "fields": {
+    "country": "Poland",
+    "latitude": null,
+    "longitude": null
+  }
+},
+{
+  "model": "records.country",
+  "pk": 53,
+  "fields": {
+    "country": "Mozambique",
+    "latitude": null,
+    "longitude": null
+  }
+},
+{
+  "model": "records.country",
+  "pk": 54,
+  "fields": {
+    "country": "Ghana",
+    "latitude": null,
+    "longitude": null
+  }
+},
+{
+  "model": "records.country",
+  "pk": 55,
+  "fields": {
+    "country": "Netherlands",
+    "latitude": null,
+    "longitude": null
+  }
+},
+{
+  "model": "records.country",
+  "pk": 56,
+  "fields": {
+    "country": "Macedonia",
+    "latitude": null,
+    "longitude": null
+  }
+},
+{
+  "model": "records.country",
+  "pk": 57,
+  "fields": {
+    "country": "Ukraine",
+    "latitude": null,
+    "longitude": null
+  }
+},
+{
+  "model": "records.country",
+  "pk": 58,
+  "fields": {
+    "country": "Switzerland",
+    "latitude": null,
+    "longitude": null
+  }
+},
+{
+  "model": "records.country",
+  "pk": 59,
+  "fields": {
+    "country": "Tajikistan",
+    "latitude": null,
+    "longitude": null
+  }
+},
+{
+  "model": "records.country",
+  "pk": 60,
+  "fields": {
+    "country": "Mali",
+    "latitude": null,
+    "longitude": null
+  }
+},
+{
+  "model": "records.country",
+  "pk": 61,
+  "fields": {
+    "country": "India",
+    "latitude": null,
+    "longitude": null
+  }
+},
+{
+  "model": "records.country",
+  "pk": 62,
+  "fields": {
+    "country": "Algeria",
+    "latitude": null,
+    "longitude": null
+  }
+},
+{
+  "model": "records.country",
+  "pk": 63,
+  "fields": {
+    "country": "Kenya",
+    "latitude": null,
+    "longitude": null
+  }
+},
+{
+  "model": "records.country",
+  "pk": 64,
+  "fields": {
+    "country": "Uganda",
+    "latitude": null,
+    "longitude": null
+  }
+},
+{
+  "model": "records.country",
+  "pk": 65,
+  "fields": {
+    "country": "Libya",
+    "latitude": null,
+    "longitude": null
+  }
+},
+{
+  "model": "records.country",
+  "pk": 66,
+  "fields": {
+    "country": "Djibouti",
+    "latitude": null,
+    "longitude": null
+  }
+},
+{
+  "model": "records.country",
+  "pk": 67,
+  "fields": {
+    "country": "Sierra Leone",
+    "latitude": null,
+    "longitude": null
+  }
+},
+{
+  "model": "records.country",
+  "pk": 68,
+  "fields": {
+    "country": "Tunisia",
+    "latitude": null,
+    "longitude": null
+  }
+},
+{
+  "model": "records.country",
+  "pk": 69,
+  "fields": {
+    "country": "Greece",
+    "latitude": null,
+    "longitude": null
+  }
+},
+{
+  "model": "records.country",
+  "pk": 70,
+  "fields": {
+    "country": "Albania",
+    "latitude": null,
+    "longitude": null
+  }
+},
+{
+  "model": "records.country",
+  "pk": 71,
+  "fields": {
+    "country": "Thailand",
+    "latitude": null,
+    "longitude": null
+  }
+},
+{
+  "model": "records.country",
+  "pk": 72,
+  "fields": {
+    "country": "Serbia",
+    "latitude": null,
+    "longitude": null
+  }
+},
+{
+  "model": "records.country",
+  "pk": 73,
+  "fields": {
+    "country": "Jordan",
+    "latitude": null,
+    "longitude": null
+  }
+},
+{
+  "model": "records.country",
+  "pk": 74,
+  "fields": {
+    "country": "Myanmar",
+    "latitude": null,
+    "longitude": null
+  }
+},
+{
+  "model": "records.country",
+  "pk": 75,
+  "fields": {
+    "country": "Czech Republic",
+    "latitude": null,
+    "longitude": null
+  }
+},
+{
+  "model": "records.country",
+  "pk": 76,
+  "fields": {
+    "country": "Vietnam",
+    "latitude": null,
+    "longitude": null
+  }
+},
+{
+  "model": "records.country",
+  "pk": 77,
+  "fields": {
+    "country": "North Korea",
+    "latitude": null,
+    "longitude": null
+  }
+},
+{
+  "model": "records.country",
+  "pk": 78,
+  "fields": {
+    "country": "Germany",
+    "latitude": null,
+    "longitude": null
+  }
+},
+{
+  "model": "records.country",
+  "pk": 79,
+  "fields": {
+    "country": "Western Sahara",
+    "latitude": null,
+    "longitude": null
+  }
+},
+{
+  "model": "records.country",
+  "pk": 80,
+  "fields": {
+    "country": "The Netherlands",
+    "latitude": null,
+    "longitude": null
+  }
+},
+{
+  "model": "records.country",
+  "pk": 81,
+  "fields": {
+    "country": "Uzbekistan",
+    "latitude": null,
+    "longitude": null
+  }
+},
+{
+  "model": "records.country",
+  "pk": 82,
+  "fields": {
+    "country": "Austria",
+    "latitude": null,
+    "longitude": null
+  }
+},
+{
+  "model": "records.country",
+  "pk": 83,
+  "fields": {
+    "country": "Slovakia",
+    "latitude": null,
+    "longitude": null
+  }
+},
+{
+  "model": "records.country",
+  "pk": 84,
+  "fields": {
+    "country": "United Kingdom",
+    "latitude": null,
+    "longitude": null
+  }
+},
+{
+  "model": "records.country",
+  "pk": 85,
+  "fields": {
+    "country": "El Salvador",
+    "latitude": null,
+    "longitude": null
+  }
+},
+{
+  "model": "records.country",
+  "pk": 86,
+  "fields": {
+    "country": "Caribbean",
+    "latitude": null,
+    "longitude": null
+  }
+},
+{
+  "model": "records.country",
+  "pk": 87,
+  "fields": {
+    "country": "South Asia",
+    "latitude": null,
+    "longitude": null
+  }
+},
+{
+  "model": "records.country",
+  "pk": 88,
+  "fields": {
+    "country": "Mexico",
+    "latitude": null,
+    "longitude": null
+  }
+},
+{
+  "model": "records.country",
+  "pk": 89,
+  "fields": {
+    "country": "Cambodia",
+    "latitude": null,
+    "longitude": null
+  }
+},
+{
+  "model": "records.country",
+  "pk": 90,
+  "fields": {
+    "country": "Laos",
+    "latitude": null,
+    "longitude": null
+  }
+},
+{
+  "model": "records.country",
+  "pk": 91,
+  "fields": {
+    "country": "Chile",
+    "latitude": null,
+    "longitude": null
+  }
+},
+{
+  "model": "records.country",
+  "pk": 92,
+  "fields": {
+    "country": "East Timor",
+    "latitude": null,
+    "longitude": null
+  }
+},
+{
+  "model": "records.country",
+  "pk": 93,
+  "fields": {
+    "country": "Canada",
+    "latitude": null,
+    "longitude": null
+  }
+},
+{
+  "model": "records.country",
+  "pk": 94,
+  "fields": {
+    "country": "United States",
+    "latitude": null,
+    "longitude": null
+  }
+},
+{
+  "model": "records.country",
+  "pk": 95,
+  "fields": {
+    "country": "Central African Republic",
+    "latitude": null,
+    "longitude": null
+  }
+},
+{
+  "model": "records.country",
+  "pk": 96,
+  "fields": {
+    "country": "Malaysia",
+    "latitude": null,
+    "longitude": null
+  }
+},
+{
+  "model": "records.country",
+  "pk": 97,
+  "fields": {
+    "country": "Ireland",
+    "latitude": null,
+    "longitude": null
+  }
+},
+{
+  "model": "records.country",
+  "pk": 98,
+  "fields": {
+    "country": "Belgium",
+    "latitude": null,
+    "longitude": null
+  }
+},
+{
+  "model": "records.country",
+  "pk": 99,
+  "fields": {
+    "country": "Indonesia",
+    "latitude": null,
+    "longitude": null
+  }
+},
+{
+  "model": "records.country",
+  "pk": 100,
+  "fields": {
+    "country": "Burkina Faso",
+    "latitude": null,
+    "longitude": null
+  }
+},
+{
+  "model": "records.country",
+  "pk": 101,
+  "fields": {
+    "country": "Zimbabwe",
+    "latitude": null,
+    "longitude": null
+  }
+},
+{
+  "model": "records.country",
+  "pk": 102,
+  "fields": {
+    "country": "South Africa",
+    "latitude": null,
+    "longitude": null
+  }
+},
+{
+  "model": "records.country",
+  "pk": 103,
+  "fields": {
+    "country": "Gambia",
+    "latitude": null,
+    "longitude": null
+  }
+},
+{
+  "model": "records.country",
+  "pk": 104,
+  "fields": {
+    "country": "Mauritius",
+    "latitude": null,
+    "longitude": null
+  }
+}
+]
