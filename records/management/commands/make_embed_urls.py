@@ -13,3 +13,7 @@ class Command(BaseCommand):
                 fl_record.trailer_embed_url = fl_record.trailer_url.replace('https://www.youtube.com/watch?v=',
                                                                             'https://www.youtube.com/embed/')
                 fl_record.save()
+            if 'vimeo' in fl_record.trailer_url:
+                fl_record.trailer_embed_url = fl_record.trailer_url.replace('https://vimeo.com',
+                                                                             'https://player.vimeo.com/video')
+                fl_record.save()
