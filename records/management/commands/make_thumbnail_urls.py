@@ -21,7 +21,7 @@ class Command(BaseCommand):
                 r = requests.get(vimeo_api_url)
                 if r.status_code == 200:
                     data = r.json()[0]
-                    fl_record.thumbnail_url = data["thumbnail_medium"]
+                    fl_record.thumbnail_url = data["thumbnail_high"]
                 else:
                     print("Check video: %s - %s" % (fl_record.title, vimeo_id))
             else:
