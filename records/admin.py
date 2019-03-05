@@ -14,6 +14,7 @@ class CountryRecordAdmin(admin.ModelAdmin):
 class FilmLibraryRecordAdmin(admin.ModelAdmin):
     ordering = ('title',)
     filter_horizontal = ['countries', 'keywords', 'directors']
+    list_display = ('id', 'title')
 
 admin.site.register(Country, CountryRecordAdmin)
 admin.site.register(Keyword)
