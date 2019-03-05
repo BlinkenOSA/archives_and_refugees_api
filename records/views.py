@@ -61,7 +61,8 @@ class FilmLibraryRecordFilterClass(filters.FilterSet):
 
 class FilmLibraryRecordListView(ListAPIView):
     serializer_class = FilmLibraryRecordSerializer
-    queryset = FilmLibraryRecord.objects.all().order_by('title')
+    queryset = FilmLibraryRecord.objects.all().\
+        prefetch_related('countries', 'directors', 'keywords').order_by('title')
     filter_backends = (filters.DjangoFilterBackend,)
     filter_class = FilmLibraryRecordFilterClass
 

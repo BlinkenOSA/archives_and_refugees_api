@@ -8,6 +8,7 @@ class FilmLibraryRecord(models.Model):
     trailer_url = models.URLField(blank=True, null=True)
     trailer_embed_url = models.URLField(blank=True, null=True)
     thumbnail_url = models.URLField(blank=True, null=True)
+    thumbnail = models.FileField(upload_to='thumbnails/', null=True)
     title = models.CharField(max_length=300)
     abstract = models.TextField(blank=True, null=True)
     temporal_coverage_start = models.IntegerField(blank=True, null=True)
@@ -16,7 +17,7 @@ class FilmLibraryRecord(models.Model):
     notes = models.TextField(blank=True, null=True)
     countries = models.ManyToManyField('records.Country')
     directors = models.ManyToManyField('records.Director')
-    keywords = models.ManyToManyField('records.Keyword', blank=True, null=True)
+    keywords = models.ManyToManyField('records.Keyword', blank=True)
 
     def __unicode__(self):
         return self.title

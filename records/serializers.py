@@ -34,7 +34,8 @@ class FilmLibraryRecordSerializer(serializers.ModelSerializer):
 
     class Meta:
         model = FilmLibraryRecord
-        fields = ['id', 'trailer_url', 'trailer_embed_url', 'thumbnail_url', 'title', 'abstract', 'temporal_coverage_start', 'temporal_coverage_end',
+        fields = ['id', 'trailer_url', 'trailer_embed_url', 'thumbnail_url', 'thumbnail', 'title', 'abstract',
+                  'temporal_coverage_start', 'temporal_coverage_end',
                   'catalog_url', 'notes', 'countries', 'keywords', 'directors']
 
 
