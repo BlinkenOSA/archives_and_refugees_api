@@ -4,3 +4,4 @@ records/management/commands/populate.py
 records/management/commands/OSA - RefugeeVideos-0f7505da22e7.json
 db.sqlite3
 *.pyc
+media/
