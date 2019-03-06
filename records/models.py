@@ -24,6 +24,8 @@ class FilmLibraryRecord(models.Model):
 
     class Meta:
         db_table = 'film_library_records'
+        verbose_name = 'Film Library Record'
+        verbose_name_plural = 'Film Library Records'
 
 
 class Country(models.Model):
@@ -37,6 +39,8 @@ class Country(models.Model):
 
     class Meta:
         db_table = 'countries'
+        verbose_name = 'Country'
+        verbose_name_plural = 'Countries'
 
 
 class Keyword(models.Model):
@@ -48,6 +52,8 @@ class Keyword(models.Model):
 
     class Meta:
         db_table = 'keywords'
+        verbose_name = 'Keyword'
+        verbose_name_plural = 'Keywords'
 
 
 class Director(models.Model):
@@ -59,3 +65,5 @@ class Director(models.Model):
 
     class Meta:
         db_table = 'directors'
+        verbose_name = 'Director'
+        verbose_name_plural = 'Directors'
