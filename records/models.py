@@ -8,7 +8,7 @@ class FilmLibraryRecord(models.Model):
     trailer_url = models.URLField(blank=True, null=True)
     trailer_embed_url = models.URLField(blank=True, null=True)
     thumbnail_url = models.URLField(blank=True, null=True)
-    thumbnail = models.FileField(upload_to='thumbnails/', null=True)
+    thumbnail = models.FileField(upload_to='thumbnail/', null=True)
     title = models.CharField(max_length=300)
     abstract = models.TextField(blank=True, null=True)
     temporal_coverage_start = models.IntegerField(blank=True, null=True)
