@@ -3,6 +3,7 @@ from __future__ import unicode_literals
 
 from django.db.models import Count, Q
 from django.shortcuts import render
+from rest_framework.pagination import LimitOffsetPagination
 from rest_framework.response import Response
 
 # Create your views here.
@@ -11,6 +12,7 @@ from django_filters import rest_framework as filters
 from rest_framework.views import APIView
 
 from records.models import Country, Keyword, Director, FilmLibraryRecord
+from records.pagination import ArchivesAndRefugeesPagination
 from records.serializers import CountrySerializer, KeywordSerializer, DirectorSerializer, FilmLibraryRecordSerializer
 
 
@@ -63,6 +65,7 @@ class FilmLibraryRecordListView(ListAPIView):
     serializer_class = FilmLibraryRecordSerializer
     queryset = FilmLibraryRecord.objects.all().\
         prefetch_related('countries', 'directors', 'keywords').order_by('title')
+    pagination_class = ArchivesAndRefugeesPagination
     filter_backends = (filters.DjangoFilterBackend,)
     filter_class = FilmLibraryRecordFilterClass
 
