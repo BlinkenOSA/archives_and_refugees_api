@@ -16,9 +16,26 @@ from records.pagination import ArchivesAndRefugeesPagination
 from records.serializers import CountrySerializer, KeywordSerializer, DirectorSerializer, FilmLibraryRecordSerializer
 
 
+class CountryFilterClass(filters.FilterSet):
+    date_from = filters.NumberFilter(label='Temporal Coverage From', method='filter_date_from')
+    date_to = filters.NumberFilter(label='Temporal Coverage To', method='filter_date_to')
+
+    def filter_date_from(self, queryset, name, value):
+        return queryset
+
+    def filter_date_to(self, queryset, name, value):
+        return queryset
+
+    class Meta:
+        model = Country
+        fields = ['date_from', 'date_to']
+
+
 class CountryListView(ListAPIView):
     serializer_class = CountrySerializer
     pagination_class = None
+    filter_backends = (filters.DjangoFilterBackend,)
+    filter_class = CountryFilterClass
     queryset = Country.objects.all().order_by('country')
 
 
