@@ -12,9 +12,9 @@ class Command(BaseCommand):
 
     def handle(self, *args, **options):
         # FilmLibraryRecord.objects.all().delete()
-        Keyword.objects.all().delete()
-        Country.objects.all().delete()
-        Director.objects.all().delete()
+        # Keyword.objects.all().delete()
+        # Country.objects.all().delete()
+        # Director.objects.all().delete()
 
         scope = ['https://spreadsheets.google.com/feeds']
 
