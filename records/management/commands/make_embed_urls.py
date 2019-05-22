@@ -9,7 +9,7 @@ class Command(BaseCommand):
     def handle(self, *args, **options):
         fl_records = FilmLibraryRecord.objects.all()
         for fl_record in fl_records:
-            if not fl_record.trailer_embed_url:
+            if not fl_record.trailer_embed_url and fl_record.trailer_url:
                 if 'youtube' in fl_record.trailer_url:
                     fl_record.trailer_embed_url = fl_record.trailer_url.replace('https://www.youtube.com/watch?v=',
                                                                                 'https://www.youtube.com/embed/')
