@@ -11,7 +11,7 @@ class Command(BaseCommand):
     help = 'Migrate FEC Records.'
 
     def handle(self, *args, **options):
-        FilmLibraryRecord.objects.all().delete()
+        # FilmLibraryRecord.objects.all().delete()
         Keyword.objects.all().delete()
         Country.objects.all().delete()
         Director.objects.all().delete()
@@ -23,7 +23,7 @@ class Command(BaseCommand):
 
         gc = gspread.authorize(credentials)
         sheet = gc.open_by_key('18VdrBZhbsVynHbsvMz3HdpnzYgZrUJruYdpXJh14WiI')
-        worksheet = sheet.worksheet('Film Library')
+        worksheet = sheet.worksheet('2019 Film Library Additions')
 
         values = worksheet.get_all_values()
 
@@ -50,7 +50,10 @@ class Command(BaseCommand):
 
                 # New FL Record
                 if row[columns.index('title')] != "":
-                    fl = FilmLibraryRecord.objects.create(title=row[columns.index('title')])
+                    fl, created = FilmLibraryRecord.objects.get_or_create(
+                        title=row[columns.index('title')],
+                        catalog_url=row[columns.index('catalog')]
+                    )
                     fl.trailer_url = row[columns.index('trailer_url')]
                     fl.abstract = row[columns.index('abstract')]
                     fl.catalog_url = row[columns.index('catalog')]
@@ -91,4 +94,4 @@ class Command(BaseCommand):
                 #    country.save()
 
                 fl.countries.add(country)
-                print("Adding FL title: %s" % fl.title)
+                print("Adding FL title: %s" % unicode(fl.title))
