@@ -20,7 +20,7 @@ class Command(BaseCommand):
 
         gc = gspread.authorize(credentials)
         sheet = gc.open_by_key('18VdrBZhbsVynHbsvMz3HdpnzYgZrUJruYdpXJh14WiI')
-        worksheet = sheet.worksheet('Film Library')
+        worksheet = sheet.worksheet('2019 Film Library Additions')
 
         values = worksheet.get_all_values()
 
@@ -37,7 +37,6 @@ class Command(BaseCommand):
                 'director',
                 'temporal_coverage',
                 'keywords',
-                'keywords_to_use',
                 'catalog',
                 'notes'
             ]
@@ -47,13 +46,17 @@ class Command(BaseCommand):
 
                 # New FL Record
                 if row[columns.index('thumbnail')] != "":
-                    fl = FilmLibraryRecord.objects.filter(title=row[columns.index('title')]).first()
-                    source = os.path.join(settings.MEDIA_ROOT, 'thumbnail', 'withName', row[columns.index('thumbnail')])
-                    destination = os.path.join(settings.MEDIA_ROOT, 'thumbnail', '%04d.jpg' % fl.id)
+                    fl = FilmLibraryRecord.objects.filter(
+                        title=row[columns.index('title')],
+                        catalog_url=row[columns.index('catalog')]
+                    ).first()
+                    if len(fl) > 0:
+                        source = os.path.join(settings.MEDIA_ROOT, 'thumbnail', 'withName', row[columns.index('thumbnail')])
+                        destination = os.path.join(settings.MEDIA_ROOT, 'thumbnail', '%04d.jpg' % fl.id)
 
-                    if os.path.exists(source):
-                        shutil.move(source, destination)
-                        print('File %s was moved' % source)
-                        fl.thumbnail.name = os.path.join('thumbnail', '%04d.jpg' % fl.id)
-                    else:
-                        print('Wrong source file: %s' % source)
+                        if os.path.exists(source):
+                            shutil.move(source, destination)
+                            print('File %s was moved' % source)
+                            fl.thumbnail.name = os.path.join('thumbnail', '%04d.jpg' % fl.id)
+                        else:
+                            print('Wrong source file: %s' % source)

@@ -40,7 +40,6 @@ class Command(BaseCommand):
                 'director',
                 'temporal_coverage',
                 'keywords',
-                'keywords_to_use',
                 'catalog',
                 'notes'
             ]

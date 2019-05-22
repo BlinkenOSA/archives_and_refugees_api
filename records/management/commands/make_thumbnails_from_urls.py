@@ -15,7 +15,7 @@ class Command(BaseCommand):
         fl_records = FilmLibraryRecord.objects.all().order_by('id')
         for fl_record in fl_records:
             if not fl_record.thumbnail:
-                # print("Processing %s" % fl_record.id)
+                print("Processing %s" % fl_record.id)
                 if 'youtube' in fl_record.trailer_url:
                     yt_id = fl_record.trailer_url.replace('https://www.youtube.com/watch?v=', '')
                     fl_record.thumbnail_url = "https://img.youtube.com/vi/%s/hqdefault.jpg" % yt_id
