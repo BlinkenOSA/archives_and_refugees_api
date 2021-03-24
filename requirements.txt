@@ -27,7 +27,7 @@ pyasn1-modules==0.2.1
 pytz==2018.4
 ratelim==0.1.6
 requests==2.21.0
-rsa==3.4.2
+rsa==4.1
 ruamel.ordereddict==0.4.13
 ruamel.yaml==0.15.89
 six==1.11.0
